@@ -7,6 +7,12 @@
         }
     ],
     "require": {
-        "php": ">= 8.2.0"
+        "php": "^8.2",
+        "monolog/monolog": "^3.5"
+    },    
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
     }
 }
