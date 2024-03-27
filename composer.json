@@ -1,4 +1,10 @@
 {
     "name": "fmdp93/hello-world",
-    "description": "Demo package"
+    "authors": [
+        {
+            "name": "Francis",
+            "email": "fmdp93@gmail.com"
+        }
+    ],
+    "require": {}
 }
