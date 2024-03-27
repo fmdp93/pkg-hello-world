@@ -11,8 +11,8 @@
         "monolog/monolog": "^3.5"
     },    
     "autoload": {
-        "classmap": [
-            "src/"
+        "files": [
+            "src/hello-world.php"
         ]
     }
 }
