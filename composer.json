@@ -6,5 +6,7 @@
             "email": "fmdp93@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">= 8.0.0"
+    }
 }
